@@ -1,7 +1,7 @@
 # 2955338_Kavitha-G
 
 #SDLC agile assignment
-![Agile Assignment Screenshot]( ).
+![Agile Assignment Screenshot](https://github.com/Katrinakalifa/2955338_Kavitha-G/blob/main/SDLC.png).
 
 #Git SimpliLearn Certificate
 ![Git Certificate Screenshot](https://github.com/Katrinakalifa/2955338_Kavitha-G/blob/main/Git.jpg).
