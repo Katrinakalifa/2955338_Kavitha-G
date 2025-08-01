@@ -7,4 +7,4 @@
 ![Git Certificate Screenshot](https://github.com/Katrinakalifa/2955338_Kavitha-G/blob/main/Git.jpg).
 
 # CodeSignal Certificate 
-![CodeSignal Certification Screenshot}(https://github.com/Katrinakalifa/2955338_Kavitha-G/blob/main/CodeSignal%20certificate.png).
+![CodeSignal Certification Screenshot](https://github.com/Katrinakalifa/2955338_Kavitha-G/blob/main/CodeSignal%20certificate.png).
