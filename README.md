@@ -8,3 +8,7 @@
 
 # CodeSignal Certificate 
 ![CodeSignal Certification Screenshot](https://github.com/Katrinakalifa/2955338_Kavitha-G/blob/main/CodeSignal%20certificate.png).
+
+
+# C Programming Certificate
+![C Programming Certificate Screenshot](https://github.com/Katrinakalifa/2955338_Kavitha-G/blob/main/C%20Programming.jpg).
